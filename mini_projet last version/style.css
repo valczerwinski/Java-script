@@ -1,0 +1,26 @@
+#forceBarre {
+    height: 10px;
+    width: 0%;
+    background-color: lightblue;
+    transition: width 0.3s;
+    margin-top: 5px;
+}
+
+#plus, #moins {
+    font-size: 20px;
+    margin: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+#compteur {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: aquamarine;
+}
+
